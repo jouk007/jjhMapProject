@@ -1,0 +1,470 @@
+{
+  "filtered": [
+    {
+      "id": 0,
+      "name": "광장타운1차",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "내당동",
+      "bunji": "463-5",
+      "lat": 35.8570447,
+      "lng": 128.5521682,
+      "households": 672,
+      "buildDate": 198403,
+      "score": "",
+      "brand": "",
+      "image": "https://t2.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2Fdf89f9d9c92a40b282a2b544af3022ae",
+      "price": 25800,
+      "floorArea": 72.45,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=2.4%EC%96%B5%2C40%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=2.4%EC%96%B5%2C40%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=2.4%EC%96%B5%2C40%E3%8E%A1%2C168%EC%84%B8%EB%8C%80%20%2F%202001%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=2.4%EC%96%B5%2C40%E3%8E%A1%2C168%EC%84%B8%EB%8C%80%20%2F%202001%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 1,
+      "name": "광장타운2차",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "내당동",
+      "bunji": "463-8",
+      "lat": 35.8562096,
+      "lng": 128.5505228,
+      "households": 180,
+      "buildDate": 198706,
+      "score": "",
+      "brand": "",
+      "image": "https://t4.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2Fb5739c84b57e4ca2a8156a7e846e2557",
+      "price": 28000,
+      "floorArea": 127,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 2,
+      "name": "삼익뉴타운",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "내당동",
+      "bunji": "308-11",
+      "lat": 35.860384,
+      "lng": 128.548033,
+      "households": 1772,
+      "buildDate": 198009,
+      "score": "",
+      "brand": "",
+      "image": "https://t2.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2Fa7ce7cbb47be4a4c8d660a714e4925a1",
+      "price": 17000,
+      "floorArea": 89,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 3,
+      "name": "내당광명",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "내당동",
+      "bunji": "340",
+      "lat": 35.860680,
+      "lng": 128.546746,
+      "households": 230,
+      "buildDate": 198104,
+      "score": "",
+      "brand": "",
+      "image": "https://t3.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2F6a21d77c7aee43b2ac7ac291dab3e702",
+      "price": 11250,
+      "floorArea": 52,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 4,
+      "name": "코오롱아파트",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "내당동",
+      "bunji": "339",
+      "lat": 35.859750,
+      "lng": 128.547143,
+      "households": 144,
+      "buildDate": 198512,
+      "score": "",
+      "brand": "",
+      "image": "https://t3.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2F7aa90fbbeac64630a2136e66b79cd326",
+      "price": 21000,
+      "floorArea": 92,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 5,
+      "name": "다산하트빌",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "중리동",
+      "bunji": "115-5",
+      "lat": 35.863106,
+      "lng": 128.551252,
+      "households": 80,
+      "buildDate": 199704,
+      "score": "",
+      "brand": "",
+      "image": "https://t3.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2F80ee8b8fe3b644b59772beea0b884b7f",
+      "price": 11000,
+      "floorArea": 84,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 6,
+      "name": "신세계아파트",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "중리동",
+      "bunji": "108-1",
+      "lat": 35.864341,
+      "lng": 128.552185,
+      "households": 170,
+      "buildDate": 198203,
+      "score": "",
+      "brand": "",
+      "image": "https://t2.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2F90de3652f0de4c20b1894e900fdae4d1",
+      "price": 13500,
+      "floorArea": 68,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 7,
+      "name": "광명맨션",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "중리동",
+      "bunji": "130",
+      "lat": 35.861683,
+      "lng": 128.546781,
+      "households": 120,
+      "buildDate": 198306,
+      "score": "",
+      "brand": "",
+      "image": "https://t3.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2Faa8bb5b409f848959c63e5ec0f61b11f",
+      "price": 20000,
+      "floorArea": 109,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 8,
+      "name": "중리진달래1차",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "중리동",
+      "bunji": "76-1",
+      "lat": 35.865613,
+      "lng": 128.550890,
+      "households": 335,
+      "buildDate": 198302,
+      "score": "",
+      "brand": "",
+      "image": "https://t1.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2Fcba459bac7cc4dc3b26ee2980d5c5744",
+      "price": 12000,
+      "floorArea": 63,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 9,
+      "name": "삼익맨션",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "내당동",
+      "bunji": "350-1",
+      "lat": 35.860413,
+      "lng": 128.555868,
+      "households": 503,
+      "buildDate": 197911,
+      "score": "",
+      "brand": "",
+      "image": "https://t1.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2F42d65b4ff54a4dcc8071ce46b5b930e4",
+      "price": 20500,
+      "floorArea": 90,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 10,
+      "name": "중리롯데캐슬",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "중리동",
+      "bunji": "26-1",
+      "lat": 35.866961,
+      "lng": 128.547967,
+      "households": 1968,
+      "buildDate": 200910,
+      "score": "",
+      "brand": "",
+      "image": "https://t1.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2F540eeaf19d944c2398069a3c63720a18",
+      "price": 28500,
+      "floorArea": 110,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 11,
+      "name": "평리푸르지오2단지",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "평리동",
+      "bunji": "1680",
+      "lat": 35.868900,
+      "lng": 128.558551,
+      "households": 922,
+      "buildDate": 201111,
+      "score": "",
+      "brand": "",
+      "image": "https://t3.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2F448201e90f6d4daab35023d703c6ebd2",
+      "price": 26800,
+      "floorArea": 82,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 12,
+      "name": "평리푸르지오3단지",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "평리동",
+      "bunji": "1680",
+      "lat": 35.869378,
+      "lng": 128.556759,
+      "households": 368,
+      "buildDate": 201111,
+      "score": "",
+      "brand": "",
+      "image": "https://t1.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2F7e9adc4677f84387909bf69ad45a2cd8",
+      "price": 25500,
+      "floorArea": 82,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 13,
+      "name": "평리푸르지오1단지",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "평리동",
+      "bunji": "1680",
+      "lat": 35.868874,
+      "lng": 128.559796,
+      "households": 529,
+      "buildDate": 201111,
+      "score": "",
+      "brand": "",
+      "image": "https://t3.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2F09e7eb240bb8493b89ae3453091a7402",
+      "price": 32500,
+      "floorArea": 110,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    },
+	{
+      "id": 14,
+      "name": "평리롯데캐슬",
+      "sido": "대구광역시",
+      "gugun": "서구",
+      "dong": "평리동",
+      "bunji": "1676",
+      "lat": 35.870708,
+      "lng": 128.565680,
+      "households": 1281,
+      "buildDate": 200912,
+      "score": "",
+      "brand": "",
+      "image": "https://t1.daumcdn.net/thumb/R1024x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Festate%2Fdanji_marked%2Ff2beea6404b84283b7cca800d54ebba0",
+      "price": 30500,
+      "floorArea": 106,
+      "marker": {
+        "small": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Small_Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1"
+          }
+        },
+        "large": {
+          "xxxh": {
+            "base": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName=",
+            "selected": "https://i6.zigbang.com/v1/marker/apartment.jpg?markerSizeName=xxxh&markerTypeName=Apartment_Selected&datas=3.2%EC%96%B5%2C35%E3%8E%A1%2C160%EC%84%B8%EB%8C%80%20%2F%201996%EB%85%84&brandName="
+          }
+        }
+      }
+    }
+	],
+  "unfiltered": []
+}
